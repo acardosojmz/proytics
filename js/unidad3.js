@@ -39,3 +39,9 @@ function cambiarTexto() {
 	btn.value="Cambiando el texto del boton ";
 
 }
+
+function flecha(x,y) {
+	retunr ((x,y)=>{
+		x*y;
+	});
+}
